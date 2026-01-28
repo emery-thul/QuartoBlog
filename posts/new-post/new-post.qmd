@@ -1,0 +1,10 @@
+---
+title: "New Post"
+author: "Emery Thul"
+date: "2026-01-28"
+categories: [news]
+---
+
+This is a new sample post!
+
+![A hawk!](DSC_9175.JPG){fig-align="center"}
